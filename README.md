@@ -48,7 +48,6 @@ Jupytor notebook for python
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Dinesh J Babu Sir and IITB for guiding me in the linear regression module=
--
 
 
 ## Contact
